@@ -1,4 +1,5 @@
 git init
 git branch 
 git log
-......
+Nguyễn Thanh Sang
+Huỳnh Phạm Đức Thuần
